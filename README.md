@@ -1,6 +1,6 @@
 # Pipeline Distribuído de Análise e Extração de Documentos (MapReduce Híbrido)
 
-Este projeto implementa um ecossistema distribuído e tolerante a falhas para o processamento, padronização e extração de metadados estruturados a partir de documentos extensos (como relatórios científicos e botânicos). 
+Este projeto implementa um ecossistema distribuído e tolerante a falhas para o processamento, padronização e extração de metadados estruturados a partir de documentos extensos. 
 
 A arquitetura adota uma abordagem híbrida de alta performance, utilizando serviços de mensageria na nuvem para a orquestração e nós locais independentes (Small Language Models auto-hospedados) para a execução da inferência computacional.
 
